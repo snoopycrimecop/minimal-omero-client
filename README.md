@@ -7,7 +7,9 @@ https://github.com/imagej/minimal-ij1-plugin. Thanks to @dscho and @ctrueden for
 
 ## Build
 
-Install [Gradle](https://gradle.org/), and build this project:
+    ./gradlew build
+
+Alternatively if you already have [Gradle](https://gradle.org/) installed:
 
     gradle build
 
