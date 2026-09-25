@@ -24,7 +24,7 @@ repositories {
 }
 
 dependencies {
-    implementation("org.openmicroscopy:omero-gateway:5.10.0")
+    implementation("org.openmicroscopy:omero-gateway:5.11.1-SNAPSHOT")
 }
 
 startScripts {
